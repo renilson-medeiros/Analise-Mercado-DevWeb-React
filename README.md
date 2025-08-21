@@ -1,6 +1,6 @@
-# 📊 Pesquisa de Vagas - Desenvolvimento Front-End
+# 📊 Análise de Competências e Mercado de Trabalho em Front-End React
 
-## 📌 Introdução
+### 📌 Introdução
 O setor de **Tecnologia da Informação (TI)** é um dos que mais cresce no Brasil e no mundo, e dentro dele, o papel do **Desenvolvedor Front-End** se destaca como essencial para a criação de interfaces modernas, responsivas e interativas.  
 
 Com o avanço das aplicações web e móveis, a demanda por profissionais com domínio em **React, JavaScript, TypeScript e testes automatizados** está cada vez maior. Além disso, o mercado valoriza também **soft skills** como comunicação, trabalho em equipe e proatividade, que garantem um bom desempenho em ambientes colaborativos.  
@@ -11,14 +11,14 @@ A pesquisa foi realizada em plataformas como **LinkedIn, Glassdoor e Programatho
 
 ---
 
-## 🔎 Vagas Analisadas
+### 🔎 Vagas Analisadas
 - Total de vagas: **12**  
 - Localização: **Curitiba (4), Belo Horizonte (4), São Paulo (4)**  
 - Níveis: **Júnior (4), Pleno (5), Sênior (3)**  
 
 ---
 
-## 🛠️ Hard Skills mais requisitadas
+### 🛠️ Hard Skills mais requisitadas
 
 | Skill                | Frequência |
 |-----------------------|------------|
@@ -29,6 +29,8 @@ A pesquisa foi realizada em plataformas como **LinkedIn, Glassdoor e Programatho
 | Testes Automatizados  | █████░░░░░ 55% |
 | Git/GitHub            | █████░░░░░ 50% |
 
+---
+
 ### 📊 Gráfico - Hard Skills
 <div align="left">
   <img src="img/hard_skills.png" alt="Salários" width="600px">
@@ -36,7 +38,7 @@ A pesquisa foi realizada em plataformas como **LinkedIn, Glassdoor e Programatho
 
 ---
 
-## 🤝 Soft Skills mais recorrentes
+### 🤝 Soft Skills mais recorrentes
 
 | Soft Skill        | Frequência |
 |-------------------|------------|
@@ -45,6 +47,8 @@ A pesquisa foi realizada em plataformas como **LinkedIn, Glassdoor e Programatho
 | Proatividade      | ███████░░░ 70% |
 | Resolução de problemas | █████░░░░░ 55% |
 
+---
+
 ### 📊 Gráfico - Soft Skills
 <div align="left">
   <img src="img/soft_skills.png" alt="Salários" width="600px">
@@ -52,7 +56,7 @@ A pesquisa foi realizada em plataformas como **LinkedIn, Glassdoor e Programatho
 
 ---
 
-## 💰 Faixa Salarial
+### 💰 Faixa Salarial
 
 | Cidade        | Júnior (R$)     | Pleno (R$)      | Sênior (R$)     |
 |---------------|-----------------|-----------------|-----------------|
@@ -64,9 +68,10 @@ A pesquisa foi realizada em plataformas como **LinkedIn, Glassdoor e Programatho
 <div align="left">
   <img src="img/salarios.png" alt="Salários" width="600px">
 </div>
+
 ---
 
-## 📈 Tendências Observadas
+### 📈 Tendências Observadas
 - **React** é unanimidade em todas as vagas analisadas.  
 - Forte crescimento na exigência de **TypeScript** e **testes automatizados**.  
 - **São Paulo** apresenta salários mais competitivos, em média **15% a 20% maiores**.  
@@ -74,7 +79,7 @@ A pesquisa foi realizada em plataformas como **LinkedIn, Glassdoor e Programatho
 
 ---
 
-## 📝 Plano de Ação (6 meses)
+### 📝 Plano de Ação (6 meses)
 
 1. **Aprimorar React + TypeScript**  
 2. **Estudar Testes Automatizados (Jest, Cypress, React Testing Library)**  
@@ -82,7 +87,7 @@ A pesquisa foi realizada em plataformas como **LinkedIn, Glassdoor e Programatho
 
 ---
 
-## ✅ Conclusão
+### ✅ Conclusão
 A pesquisa evidencia que o mercado para **Desenvolvedores Front-End** continua em forte expansão, com destaque para o uso de **React** como tecnologia central e o crescimento na adoção de **TypeScript e práticas de testes automatizados**.  
 Além disso, fica claro que **competências interpessoais** como comunicação e colaboração têm grande peso nos processos seletivos, mostrando que o perfil do profissional procurado vai além do domínio técnico.  
 
@@ -92,7 +97,7 @@ O caminho para se destacar neste mercado passa por uma combinação de **evoluç
 
 ---
 
-## 📚 Referências
+### 📚 Referências
 
 - [LinkedIn Vagas](https://www.linkedin.com/jobs/)  
 - [Glassdoor](https://www.glassdoor.com.br/)  
